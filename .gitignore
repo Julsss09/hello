@@ -1,0 +1,8 @@
+# ignore all .txtfile
+*.txt
+
+# ignore all .txtfile
+*.log
+
+# ignore all .txtfile
+temp/
